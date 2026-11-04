@@ -1,0 +1,15 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+local.properties
+
+# Signing material and secrets
+*.jks
+*.keystore
+.env
+.env.*
